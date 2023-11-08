@@ -1,0 +1,15 @@
+F:\Cau truc du lieu va Giai thuat\MeregSort\obj\Debug\net6.0\MeregSort.csproj.AssemblyReference.cache
+F:\Cau truc du lieu va Giai thuat\MeregSort\obj\Debug\net6.0\MeregSort.GeneratedMSBuildEditorConfig.editorconfig
+F:\Cau truc du lieu va Giai thuat\MeregSort\obj\Debug\net6.0\MeregSort.AssemblyInfoInputs.cache
+F:\Cau truc du lieu va Giai thuat\MeregSort\obj\Debug\net6.0\MeregSort.AssemblyInfo.cs
+F:\Cau truc du lieu va Giai thuat\MeregSort\obj\Debug\net6.0\MeregSort.csproj.CoreCompileInputs.cache
+F:\Cau truc du lieu va Giai thuat\MeregSort\bin\Debug\net6.0\MeregSort.exe
+F:\Cau truc du lieu va Giai thuat\MeregSort\bin\Debug\net6.0\MeregSort.deps.json
+F:\Cau truc du lieu va Giai thuat\MeregSort\bin\Debug\net6.0\MeregSort.runtimeconfig.json
+F:\Cau truc du lieu va Giai thuat\MeregSort\bin\Debug\net6.0\MeregSort.dll
+F:\Cau truc du lieu va Giai thuat\MeregSort\bin\Debug\net6.0\MeregSort.pdb
+F:\Cau truc du lieu va Giai thuat\MeregSort\obj\Debug\net6.0\MeregSort.dll
+F:\Cau truc du lieu va Giai thuat\MeregSort\obj\Debug\net6.0\refint\MeregSort.dll
+F:\Cau truc du lieu va Giai thuat\MeregSort\obj\Debug\net6.0\MeregSort.pdb
+F:\Cau truc du lieu va Giai thuat\MeregSort\obj\Debug\net6.0\MeregSort.genruntimeconfig.cache
+F:\Cau truc du lieu va Giai thuat\MeregSort\obj\Debug\net6.0\ref\MeregSort.dll
